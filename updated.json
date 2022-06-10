@@ -1,22 +1,15 @@
 {
 //
-"Version":"1.2",
+"Version":"1.1",
 //
 "Url":"https://github.com/Book199/free/raw/master/BSN.zip"
 ,
 "Changelog":"
 
-SIM​ TRUE​ DTAC
-
-
+📶 TRUE,DTAC,AIS
 
 ",
- 
- 
- 
- 
- 
- 
+
 //
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
